@@ -1,0 +1,14 @@
+c:\users\rlabrie\documents\ravenstuff\raven0\raven0\bin\Debug\raven0.exe.config
+c:\users\rlabrie\documents\ravenstuff\raven0\raven0\obj\Debug\raven0.csprojResolveAssemblyReference.cache
+c:\users\rlabrie\documents\ravenstuff\raven0\raven0\bin\Debug\raven0.exe
+c:\users\rlabrie\documents\ravenstuff\raven0\raven0\bin\Debug\raven0.pdb
+c:\users\rlabrie\documents\ravenstuff\raven0\raven0\obj\Debug\raven0.exe
+c:\users\rlabrie\documents\ravenstuff\raven0\raven0\obj\Debug\raven0.pdb
+c:\users\rlabrie\documents\ravenstuff\raven0\raven0\bin\Debug\Raven.Client.Lightweight.dll
+c:\users\rlabrie\documents\ravenstuff\raven0\raven0\bin\Debug\Raven.Abstractions.dll
+c:\users\rlabrie\documents\ravenstuff\raven0\raven0\bin\Debug\Microsoft.CompilerServices.AsyncTargetingPack.Net4.dll
+c:\users\rlabrie\documents\ravenstuff\raven0\raven0\bin\Debug\Raven.Client.Lightweight.pdb
+c:\users\rlabrie\documents\ravenstuff\raven0\raven0\bin\Debug\Raven.Client.Lightweight.xml
+c:\users\rlabrie\documents\ravenstuff\raven0\raven0\bin\Debug\Raven.Abstractions.pdb
+c:\users\rlabrie\documents\ravenstuff\raven0\raven0\bin\Debug\Raven.Abstractions.xml
+c:\users\rlabrie\documents\ravenstuff\raven0\raven0\bin\Debug\Microsoft.CompilerServices.AsyncTargetingPack.Net4.xml
